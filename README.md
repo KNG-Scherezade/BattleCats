@@ -1,4 +1,4 @@
-# COMP376
+# BattleCats Online
 Comp 376 project
 
 ## Stations
