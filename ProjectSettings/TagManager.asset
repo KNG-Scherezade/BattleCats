@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StationController
+  - NavigationStation
+  - EnemyBBullet
+  - EnemyB
+  - EnemyA
+  - EnemyC
+  - EnemyABullet
+  - EnemyCBullet
+  - YarnABullet
+  - YarnBBullet
+  - YarnCBullet
+  - EnemyBShield
+  - YarnPhysics
+  - Ladder
+  - Cat
+  - TestTool
+  - Shield
+  - ShieldStation
+  - Yarn_inside_container
+  - GameInitializer
+  - TurretStation
+  - Turret
+  - TurretNozzle
+  - GameManager
+  - YarnInside
+  - LevelGoal
+  - LevelKey
+  - InsideCameraDisplay
+  - UpgradeUI
+  - Coin
+  - WarpPosition
+  - CameraDestination
+  - PlayerUI
+  - Spikes
+  - BridgeTarget
+  - Bridge
+  - OrderedTarget
+  - EndLevel2A
+  - PausePanel
+  - BossBullet
+  - BossGrenade
+  - BossRightCan
+  - BossLeftCan
+  - TanukiSensei
+  - BossGridOpen
+  - BossGridClosed
+  - BossHealthSlider
+  - Bee
+  - ExtraSFX
+  - MenuManager
+  - XL1
+  - XL2
+  - RestartPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Inner_Yarn_Ground
+  - Yarn
+  - CatBlue
+  - Station
+  - Cat_collision
+  - Inner_Yarn_Walls
+  - Shield
+  - Bunny
+  - Goals
+  - Bullet
+  - Puzzle
+  - Enemy
+  - EnemyBullets
+  - Bridge
+  - Rope
+  - Spikes
+  - Boss
+  - RestartPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: + 1
+    uniqueID: 493092383
+    locked: 0
+  - name: + 2
+    uniqueID: 3985903605
+    locked: 0
+  - name: + 3
+    uniqueID: 3913711231
+    locked: 0
+  - name: + 4
+    uniqueID: 1302959617
+    locked: 0
